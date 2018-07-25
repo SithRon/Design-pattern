@@ -24,6 +24,7 @@ public class ProductDaoSimu implements ProductDao {
 		p.setNumero(lastNumero);
 		mp.put(lastNumero, p);
 		return p;
+		//test
 	}
 
 	@Override
